@@ -1,1 +1,2 @@
 submodulo teste
+novidade no submodulo
